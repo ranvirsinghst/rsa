@@ -52,5 +52,5 @@ Three different executables are available: ./keygen, ./encrypt, and ./decrypt.
 - decrypt.c: given a private key, uses RSA decryption functions from rsa.c on a message and outputs the decrypted message to a file
 - Makefile: compiles .c files into executables ./keygen, ./encrypt, and ./decrypt
 - DESIGN.pdf: describes the design and thought process behind all assignment files pushed for asgn5
-- WRITEUP.pdf: describes testing methods for files used in asgn5
 
+I did not create any of the header files or help messages in this project. Credit for the header files and help messages goes to the writers of the Fall 2022 CSE13S curriculum at UC Santa Cruz.
